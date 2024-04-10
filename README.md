@@ -3,7 +3,7 @@
 #### Logo
 
 
-![](https://github.com/CodeEditorLand/Asset/blob/Current/Logo%20_%20Land.png)
+![](Logo%20_%20Land.png)
 
 #### Artboard
 
