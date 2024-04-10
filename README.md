@@ -2,8 +2,7 @@
 
 #### Logo
 
-
-![](Logo%20_%20Land.png)
+![Logo _ Land](Logo%20_%20Land.png)
 
 #### Artboard
 
