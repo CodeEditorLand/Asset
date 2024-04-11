@@ -2,12 +2,14 @@
 
 #### Logo
 
-![Logo _ Land](Logo%20_%20Land.png)
+![Logo](Logo.png)
 
 #### Artboard
 
-#### Security / Logo 
+[Artboard](Artboard.fig)
 
+[Artboard \_ Logo](<Artboard _ Logo.fig>)
 
+#### Security / Logo
 
 [Asset]: https://github.com/CodeEditorLand/Asset
