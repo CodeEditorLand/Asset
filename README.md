@@ -1,12 +1,18 @@
 # 🧑🏻‍🎨 [Asset]
 
-#### Logo
+#### Logo:
 
 ![Land](Logo/Land.png)
 
-![Security/Land](Logo/Land.gif)
+![Security/Land](Security/Logo/Land.gif)
 
-#### Figma
+#### Glyph:
+
+![Land](Glyph/Land.png)
+
+![Security/Land](Security/Glyph/Land.png)
+
+#### Figma:
 
 [Artboard](Artboard.fig)
 
