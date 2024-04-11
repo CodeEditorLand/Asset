@@ -2,7 +2,7 @@
 
 #### Logo
 
-![Land](Land.png)
+![Land](Logo/Land.png)
 
 #### Figma
 
