@@ -2,14 +2,10 @@
 
 #### Logo
 
-![Logo](Logo.png)
+![Land](Land.png)
 
-#### Artboard
+#### Figma
 
 [Artboard](Artboard.fig)
 
-[Artboard \_ Logo](<Artboard _ Logo.fig>)
-
-#### Security / Logo
-
-[Asset]: https://github.com/CodeEditorLand/Asset
+[Logo](Logo.fig)
