@@ -12,6 +12,4 @@
 
 [Logo](Logo.fig)
 
-[Logo](Logo.fig)
-
 [Asset]: https://github.com/CodeEditorLand/Asset
