@@ -4,7 +4,7 @@
 
 ![Land](Logo/Land.png)
 
-![Security/Land](./Logo/Land.gif)
+![Security/Land](Logo/Land.gif)
 
 #### Figma
 
