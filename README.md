@@ -2,15 +2,11 @@
 
 #### Logo:
 
-![Land](Logo/Land.png)
-
-![Security/Land](Security/Logo/Land.gif)
+![Land](Logo/Land.png) ![Land](Dark/Logo/Land.png)
 
 #### Glyph:
 
-![Land](Glyph/Land.png)
-
-![Security/Land](Security/Glyph/Land.png)
+![Land](Logo/Glyph/Land.png)
 
 #### Figma:
 
