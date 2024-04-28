@@ -18,4 +18,4 @@
 
 [Logo](Logo.fig)
 
-[Asset.]: HTTPS://github.com/CodeEditorLand/Asset
+[Asset —]: httpS://github.com/CodeEditorLand/Asset
