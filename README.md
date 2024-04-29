@@ -1,4 +1,4 @@
-# 👨🏻‍🎨 [Asset —]
+# 👨🏻‍🎨 [Asset] —
 
 #### Logo:
 
@@ -18,4 +18,4 @@
 
 [Logo](Logo.fig)
 
-[Asset —]: httpS://github.com/CodeEditorLand/Asset
+[Asset]: HTTPS://github.com/CodeEditorLand/Asset
