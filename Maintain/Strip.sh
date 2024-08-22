@@ -1,3 +1,3 @@
-#!/bin/bash
+#!/bin/sh
 
 \find . -type d \( -iname node_modules -o -iname \.git \) -prune -false -o -iname '*.png' -exec convert {} -strip {} \;
