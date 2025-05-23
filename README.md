@@ -18,7 +18,7 @@
 
 [Logo](Logo.fig)
 
-[Asset]: HTTPS://github.com/CodeEditorLand/Asset
+[Asset]: https://github.com/CodeEditorLand/Asset
 
 ## Funding
 
