@@ -14,7 +14,7 @@
 
 #### Figma:
 
-[Artboard](Artboard.fig)
+[Artboard](Artboard/)
 
 [Logo](Logo.fig)
 
